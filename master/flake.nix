@@ -11,7 +11,6 @@
   inputs.src-drawille-master.ref   = "refs/heads/master";
   inputs.src-drawille-master.owner = "PMunch";
   inputs.src-drawille-master.repo  = "drawille-nim";
-  inputs.src-drawille-master.dir   = "";
   inputs.src-drawille-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
