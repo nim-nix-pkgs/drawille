@@ -7,7 +7,7 @@
   "license": "MIT",
   "web": "https://github.com/PMunch/drawille-nim",
   "refs": [
-    "fatal: unable to access 'https://github.com/PMunch/drawille-nim/': HTTP/2 stream 1 was not closed cleanly before end of the underlying stream",
+    "fatal: unable to access 'https://github.com/PMunch/drawille-nim/': SSL connection timeout",
     ""
   ],
   "heads": []
